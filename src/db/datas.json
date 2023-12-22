@@ -1,0 +1,231 @@
+{
+    "bannerDatas" :
+    [
+        {
+            "id": 1,
+            "title": "당신의 선택은?",
+            "url": "/events/vccomm",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fbanners%2F1922%2Fb4e10b20.jpg&w=1060&q=100",
+            "info": "이직한다 vs 안한다! 경품이벤트"
+        },
+        {
+            "id": 2,
+            "title": "프리온보딩 백엔드 챌린지 1월",
+            "url": "/events/pre_challenge_be_3",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fbanners%2F1923%2Fddbcd144.jpg&w=1060&q=100",
+            "info": "함수형 프로그래밍, 실무에서 사용할 수 있나요?"
+        },
+        {
+            "id": 3,  
+            "title": "우리 회사를 소개합니다.",
+            "url": "/events/employeebranding",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fbanners%2F1791%2F19d8e5bf.jpg&w=1060&q=100",
+            "info": "'회사'에 대한 정보, 원티드가 찾아드릴게요!"
+            
+        },
+        {
+            "id": 4,
+            "title": "이직할 결심",
+            "url": "/events/weekend",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fbanners%2F1881%2F22607630.jpg&w=1060&q=100",
+            "info": "올해가 가기 전, 실행으로 옮기세요"
+        },
+        {
+            "id": 5,
+            "title": "프리온보딩 프론트엔드 챌린지 1월",
+            "url": "/events/pre_challenge_fe_5",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fbanners%2F1924%2Fca88f657.jpg&w=1060&q=100",
+            "info": "CRUD w React Query"
+        }
+    ],
+    "eventDatas" :
+    [
+        {
+            "id": 1,
+            "title": "디고디원찬에게 물어봐!ㅣ디자이너 포폴, 이건 확인하셨나요?",
+            "kind": "아티클",
+            "url": "https://www.wanted.co.kr/events/22_11_s01_b24",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fevents%2F2581%2F76eb3360.jpg&w=1200&q=100",
+            "date": ""    
+        },
+        {
+            "id": 2,
+            "title": "앤틀러 : 스타트업 제너레이터 프로그램 참가자 모집",
+            "kind": "이벤트",
+            "url": "https://www.wanted.co.kr/events/antlerkorea_startup",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fevents%2F2560%2F96e95ae8.png&w=1200&q=100",
+            "date": "2022.12.31 (토)"    
+        },
+        {
+            "id": 3,
+            "title": "스타트업 조직문화 전문가 양성과정 1기",
+            "kind": "교육",
+            "url": "https://www.wanted.co.kr/events/startup_ee_2301",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fevents%2F2621%2Fa02ddbd2.jpg&w=1200&q=100",
+            "date": "2023.03.16 (목)"    
+        },
+        {
+            "id": 4,
+            "title": "올 한 해를 마무리할 때 읽기 좋은 아티클 top 5 | Monthly pick 12",
+            "kind": "아티클",
+            "url": "https://www.wanted.co.kr/events/monthlypick12",
+            "src": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Fevents%2F2614%2F72492d8f.jpg&w=1200&q=100",
+            "date": "2023.01.04 (수)"    
+        }
+    ],
+    "categoryDatas" : [
+        {
+            "id": 1,
+            "title": "인간관계"
+        },
+        {
+            "id": 2,
+            "title": "리더십"
+        },
+        {
+            "id": 3,
+            "title": "조직문화"
+        },
+        {
+            "id": 4,
+            "title": "커리어고민"
+        },
+        {
+            "id": 5,
+            "title": "라이프스타일"
+        },
+        {
+            "id": 6,
+            "title": "회사생활"
+        },
+        {
+            "id": 7,
+            "title": "IT/기술"
+        },
+        {
+            "id": 8,
+            "title": "취업/이직"
+        },
+        {
+            "id": 9,
+            "title": "데이터"
+        },
+        {
+            "id": 10,
+            "title": "MD"
+        },
+        {
+            "id": 11,
+            "title": "마케팅"
+        },
+        {
+            "id": 12,
+            "title": "디자인"
+        },
+        {
+            "id": 13,
+            "title": "경영/전략"
+        },
+        {
+            "id": 14,
+            "title": "개발"
+        },
+        {
+            "id": 15,
+            "title": "UX/UI"
+        },
+        {
+            "id": 16,
+            "title": "HR"
+        },
+        {
+            "id": 17,
+            "title": "콘텐츠 제작"
+        },
+        {
+            "id": 18,
+            "title": "노무"
+        },
+        {
+            "id": 19,
+            "title": "서비스 기획"
+        },
+        {
+            "id": 20,
+            "title": "브랜딩"
+        }
+    ],
+    "tagDatas" : [
+        {
+            "id": 1,
+            "title": "연봉이 최고의 복지",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F634f02e0-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 2,
+            "title": "재택근무",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F5d873f3a-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 3,
+            "title": "퇴사율 10% 이하",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F7d3cdb3c-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 4,
+            "title": "급성장 중",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F37dacf86-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 5,
+            "title": "병역특례",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F6eda33d2-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 6,
+            "title": "50인 이하️",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F3a965d18-c524-11ec-901c-acde48001122.png&w=50&q=75"            
+        },
+        {
+            "id": 7,
+            "title": "50인 이상️",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F4cec3244-c524-11ec-901c-acde48001122.png&w=50&q=75"            
+        },
+        {
+            "id": 8,
+            "title": "업력 5년 이상",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F45bb9794-c524-11ec-901c-acde48001122.png&w=50&q=75"            
+        },
+        {
+            "id": 9,
+            "title": "유연근무",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F827f6146-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 10,
+            "title": "자유로운 휴가",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F68dadb80-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 11,
+            "title": "일한만큼 받는 보상",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F472333e8-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 12,
+            "title": "수평적 문화",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F78563d98-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 13,
+            "title": "요즘 뜨는 산업",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F4e1b135a-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        },
+        {
+            "id": 14,
+            "title": "식사·간식 제공",
+            "imgUrl": "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Fimages%2Ftags%2F53ca893e-9f6e-11ec-b909-0242ac120002.png&w=50&q=75"            
+        }
+    ]
+
+}
